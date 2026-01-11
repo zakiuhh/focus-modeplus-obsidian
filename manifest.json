@@ -1,0 +1,10 @@
+{
+	"id": "focus-mode-plus",
+	"name": "Focus Mode Plus",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Dims everything except the current paragraph to help you focus on what you're writing. Customizable opacity and smooth transitions.",
+	"author": "Your Name",
+	"authorUrl": "https://github.com/zakiuhh",
+	"isDesktopOnly": false
+}

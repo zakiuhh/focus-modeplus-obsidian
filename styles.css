@@ -1,0 +1,38 @@
+/* Focus Mode Plus Plugin Styles */
+
+/* Status bar styling */
+.focus-mode-active {
+	color: var(--text-accent);
+	font-weight: 600;
+}
+
+/* Settings page styling */
+.focus-mode-instructions {
+	padding: 15px;
+	background-color: var(--background-secondary);
+	border-radius: 5px;
+	margin-top: 10px;
+}
+
+.focus-mode-instructions ul {
+	margin-left: 20px;
+	margin-top: 5px;
+}
+
+.focus-mode-instructions li {
+	margin: 5px 0;
+}
+
+/* Color preset buttons */
+.color-preset-container button {
+	transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.color-preset-container button:hover {
+	transform: translateY(-2px);
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.color-preset-container button:active {
+	transform: translateY(0);
+}
